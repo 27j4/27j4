@@ -11,9 +11,9 @@
 <!--   <img src="fab fa-java' style='font-size:48px;color:red'" alt="Java" /> -->
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27j4&layout=compact)](https://github.com/27j4/github-readme-stats)
-
+<p align = "center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27j4&layout=compact)](https://github.com/27j4/github-readme-stats)
+</p>
 
 <h2 align="center">Database</h2>
 <p align="center">
