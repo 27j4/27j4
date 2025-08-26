@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Pursuing B.Tech in Computer Science & Engineering at <b>IET Lucknow</b> <br/>
   💡 Exploring <b>MERN, Next.js, TypeScript, Generative AI</b> and building real-world projects <br/>
-  🏆 ICPC Regionalist | Codeforces (CM in Progress) | 5⭐ CodeChef | Guardian at LeetCode <br/>
+  🏆 ICPC Regionalist | Expert at Codeforces (Max Rating - 1815) | 5⭐ CodeChef (Max Rating - 2095)| Guardian at LeetCode (Max Rating - 2271 in 0.39 % LeetCode Users) <br/>
 </p>
 
 ---
@@ -41,8 +41,8 @@
   <a href="https://www.codechef.com/users/anshul_iet_22" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5⭐-B92B27?style=for-the-badge&logo=codechef" />
   </a>
-  <a href="https://codeforces.com/profile/ansh_it_is" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1698-blue?style=for-the-badge&logo=codeforces" />
+  <a href="https://codeforces.com/profile/Cannobbolt2704" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1815-blue?style=for-the-badge&logo=codeforces" />
   </a>
   <a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
