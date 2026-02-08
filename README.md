@@ -1,71 +1,123 @@
 # 👋 Hi, I'm Anshul Pandey
-**Software Development Intern @ Zeta (Directi) | ICPC Regionalist | Full-Stack Engineer**
 
-A passionate Software Engineer with a deep focus on building scalable systems and solving complex algorithmic challenges. Currently honing my skills in enterprise-grade backend development and full-stack architectures.
+**Software Development Intern @ Zeta (Directi)**  
+**ICPC Regionalist | Competitive Programmer | Backend-Focused Engineer**
+
+I am a final-year Computer Science undergraduate at **IET Lucknow**, deeply interested in **backend engineering**, **scalable systems**, and **problem-solving at scale**.  
+Currently, I am training and working at **Zeta (Directi)**, where I am building enterprise-grade applications while strengthening my foundations in clean architecture and software design.
+
+I enjoy working close to the system level — writing clean, maintainable code, understanding how things work under the hood, and solving challenging algorithmic problems.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🎓 Education
 
-### **Backend & Core Engineering**
-- [cite_start]**Languages:** Java, C++, Python, JavaScript, SQL [cite: 44]
-- [cite_start]**Frameworks:** Spring Boot, Node.js, Express.js [cite: 45]
-- [cite_start]**Databases:** PostgreSQL, MongoDB, Spring Data JPA [cite: 15, 45]
-- [cite_start]**Concepts:** Multithreading, Concurrency, OOPs, SOLID Principles, Design Patterns [cite: 14, 16]
+**Institute of Engineering and Technology, Lucknow**  
+**B.Tech in Computer Science & Engineering** (2022 – 2026)  
+- GPA: **8.93 / 10**
+- Relevant Coursework:  
+  - Data Structures & Algorithms  
+  - Object-Oriented Programming  
+  - Operating Systems  
+  - Computer Networks  
+  - Database Management Systems  
+  - Software Engineering  
+
+---
+
+## 💼 Experience
+
+### **Software Development Intern — Zeta (Directi)**  
+*January 2026 – Present*
+
+- Part of a structured **Software Engineering training program** focused on industry-grade development.
+- Working with **Java**, **Spring Boot**, **REST APIs**, and **Spring Data JPA** to build a running full-stack application.
+- Applying **OOP**, **SOLID principles**, and **design patterns** in a layered architecture.
+- Gaining hands-on experience with:
+  - Multithreading & concurrency
+  - Functional programming & collections
+  - Maven-based builds
+  - Unit testing, logging, and debugging
+  - CI/CD pipelines and deployment workflows
+- Exposure to large-scale **banking systems** and internal platforms.
+
+---
+
+### **Member of Technical Staff — GeeksforGeeks**  
+*June 2025 – August 2025*
+
+- Designed **60+ DSA problems**, including **Problem of the Day**.
+- Authored **100+ editorials and tutorials** for competitive programming learners.
+- Improved problem quality by:
+  - Refining constraints
+  - Fixing edge cases
+  - Optimizing test data for contests and practice problems
+- Contributed to structured learning tracks on the platform.
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+- Java, C++, Python, JavaScript, SQL
+
+### **Backend & Databases**
+- Spring Boot, JDBC, Node.js, Express.js  
+- PostgreSQL, MongoDB
 
 ### **Frontend & Web**
-- [cite_start]**Frameworks:** React.js, Vue.js, Tailwind CSS [cite: 15, 46]
-- [cite_start]**Real-time:** Socket.IO [cite: 35, 46]
+- React.js, HTML, CSS, Tailwind CSS  
+- Socket.IO (real-time communication)
 
-### **Tools & Dev-Ops**
-- [cite_start]**Workflow:** Git, Maven, CI/CD Pipelines, Postman [cite: 16, 47]
-- [cite_start]**Cloud/Auth:** JWT, Stripe API, Cloudinary, Multer [cite: 40, 47]
-
----
-
-## 💼 Professional Experience
-
-### **Software Development Intern | [cite_start]Zeta (Directi)** *Jan 2026 – Present* [cite: 11, 13]
-- [cite_start]Currently building full-stack banking applications using **Spring Boot** and **Vue.js**[cite: 15].
-- [cite_start]Implementing **SOLID principles** and unit testing within internal banking platforms[cite: 16].
-- [cite_start]Mastered advanced Java concepts including **multithreading** and **concurrency**[cite: 14].
-
-### **Member of Technical Staff | [cite_start]GeeksforGeeks** *June 2025 – August 2025* [cite: 17, 18]
-- [cite_start]Designed 60+ DSA problems for the GfG platform, including **Problem of the Day**[cite: 19].
-- [cite_start]Refined test data and optimized constraints for competitive programming contests[cite: 21].
+### **Engineering & Tools**
+- Object-Oriented Design
+- Multithreading & Concurrency
+- Design Patterns & Clean Code
+- Git & GitHub
+- Maven, Postman
+- JWT Authentication
+- CI/CD Pipelines
 
 ---
 
-## 🏆 Competitive Programming Excellence
-| Platform | Achievement | Global Rank / Percentile |
-| :--- | :--- | :--- |
-| **ICPC** | [cite_start]3x Regionalist (Kanpur, Chennai, Amritapuri) [cite: 23] | [cite_start]AIR 43 (Kanpur '25) [cite: 23] |
-| **LeetCode** | [cite_start]**Guardian** (Max 2384) [cite: 25] | [cite_start]Top 0.36% (Rank 105 Biweekly 156) [cite: 25] |
-| **Codeforces** | [cite_start]**Expert** (Max 1816) [cite: 23] | [cite_start]Rank 154 (Div. 3) [cite: 24] |
-| **CodeChef** | [cite_start]**5-Star** (Max 2095) [cite: 25] | [cite_start]Rank 22 (Starters 172) [cite: 26] |
+## 🏆 Competitive Programming & Achievements
 
-[cite_start]*Solved **3500+** problems across various platforms.* [cite: 28]
+- **ICPC Regionalist (3×)**
+  - AIR **43** — Kanpur Regional 2025
+  - AIR **59** — Chennai Regional 2024
+  - AIR **74** — Amritapuri Regional 2025
+
+- **Codeforces**
+  - **Expert** (Max Rating: **1816**)
+  - Rank **154** in Codeforces Round 1013 (Div. 3) among 20,000+ participants
+
+- **LeetCode**
+  - **Guardian** (Max Rating: **2384**)
+  - Top **0.36%** globally
+  - Global Rank **105** in Biweekly Contest 156
+
+- **CodeChef**
+  - **5-Star** (Max Rating: **2095**)
+  - Global Rank **22** in Starters 172 (Div. 1)
+
+- **AtCoder**
+  - **Cyan (4-Kyu)** — Max Rating: 1225
+  - Global Rank **650** in ABC 373
+
+- **GeeksforGeeks**
+  - **6-Star** (Max Rating: 2200)
+  - Global Rank **7** in GFG Weekly Contest 206
+
+- Solved **3500+** problems across competitive programming platforms.
 
 ---
 
-## 🏗️ Featured Projects
+## 📫 Connect With Me
 
-### **Connectify** | [Live](https://...) | [GitHub](https://...)
-[cite_start]*Full-Stack Community Platform* [cite: 30, 34]
-- [cite_start]Real-time group chat using **Socket.io** with message broadcasting[cite: 35].
-- [cite_start]Secure media uploads via **Cloudinary** and JWT-based authentication[cite: 36].
-
-### **Groww-Carry** | [Live](https://...) | [GitHub](https://...)
-[cite_start]*E-commerce & Payments* [cite: 38]
-- [cite_start]Integrated **Stripe API** for secure payment processing[cite: 40].
-- [cite_start]Built role-based dashboards for customized user experiences[cite: 41].
+- **Email:** pandeyanshul2004@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/anshul-pandey-b5316824a/  
+- **GitHub:** https://github.com/27j4  
 
 ---
 
-## 📫 Let's Connect
-- [cite_start]**LinkedIn:** [anshul-pandey](https://www.linkedin.com/in/anshul-pandey-b5316824a/) [cite: 4]
-- **Portfolio:** [If you have one]
-- [cite_start]**Email:** [pandeyanshul2004@gmail.com](mailto:pandeyanshul2004@gmail.com) [cite: 4]
-
----
-*“Always curious, always building — from scalable systems to AI-powered applications.”*
+> *Always learning, always improving — focused on writing correct, clean, and scalable software.*
